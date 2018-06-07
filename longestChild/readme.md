@@ -4,4 +4,4 @@
 
 <br>例：原始字符串：aaababefabddcbbb</br>
 <br>满足条件最长子串：abddcbbb</br>
-![](https://github.com/yy0yaolinjun1/IntroductionToGameDesign/raw/master/longestChild/assignment.png
+![](https://github.com/yy0yaolinjun1/IntroductionToGameDesign/raw/master/longestChild/assignment.png)
