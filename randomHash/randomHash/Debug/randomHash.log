@@ -1,0 +1,5 @@
+﻿  randomHash.cpp
+c:\users\80686\source\repos\randomhash\randomhash\randomhash.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\80686\source\repos\randomhash\randomhash\randomhash.cpp(24): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\80686\source\repos\randomhash\randomhash\randomhash.cpp(52): warning C4101: “ranNum”: 未引用的局部变量
+  randomHash.vcxproj -> C:\Users\80686\source\repos\randomHash\Debug\randomHash.exe

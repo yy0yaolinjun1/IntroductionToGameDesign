@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\80686\source\repos\astar\astar\main.cpp(229): warning C4101: “pos”: 未引用的局部变量
+c:\users\80686\source\repos\astar\astar\main.cpp(278): warning C4101: “dest2”: 未引用的局部变量
+c:\users\80686\source\repos\astar\astar\main.cpp(278): warning C4101: “source2”: 未引用的局部变量
+  Astar.vcxproj -> C:\Users\80686\source\repos\Astar\Debug\Astar.exe
